@@ -7,7 +7,7 @@ body {
     color:rgb(170, 255, 0);
 }
 #home {
-    background-image: url(../ホームページ用写真/nathan-dumlao-6VhPY27jdps-unsplash.jpg);
+    background-image: url(nathan-dumlao-6VhPY27jdps-unsplash.jpg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -85,7 +85,7 @@ img{
 */
 
 #news {
-    background-image: url(../ホームページ用写真/kk.jpg);
+    background-image: url(kk.jpg);
     position: flex;
     height: 20rem;
     margin-bottom: 40px;
@@ -193,7 +193,7 @@ aside p {
 /*Menu-------------------------------------------------------------------------------------------------------------------------------------------*/
 
 #menu {
-    background-image: url(../ホームページ用写真/パンケーキ.jpg);
+    background-image: url(パンケーキ.jpg);
     position: flex;
     min-height: 85vh;
 }
@@ -242,7 +242,7 @@ aside p {
 }
 /*Menu-------------------------------------------------------------------------------------------------------------------------------------------*/
 #contact{
-    background-image: url(../ホームページ用写真/店内画像.jpg);
+    background-image: url(店内画像.jpg);
     min-height: 85vh;
 }
 #male{
